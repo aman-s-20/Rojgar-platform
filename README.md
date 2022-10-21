@@ -4,7 +4,7 @@
 
 ## ❓ Problem Statement
 
-- Make a job-search platofrm for traders
+- Make a job-search platform for traders
 
 
 **Note** : SMS can be sent to only Twilio verified numbers as I am not using the paid service.
