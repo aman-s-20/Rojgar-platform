@@ -1,12 +1,11 @@
-# Rozgaar Job Search App for Blue Collar Workers
+# Rojgar Job Search App for traders
 
 ![Alt Text](https://media.giphy.com/media/A8pRmkexvl9jCdzS5D/giphy.gif)
 
 ## ❓ Problem Statement
 
-- Make a job-search platofrm for Blue Collar Workers.
+- Make a job-search platofrm for traders
 
-## [VIEW LIVE DEMO](https://practical-jepsen-534aed.netlify.app/)
 
 **Note** : SMS can be sent to only Twilio verified numbers as I am not using the paid service.
 
