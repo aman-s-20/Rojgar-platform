@@ -20,22 +20,6 @@
 - **SMS sending** - Twilio
 - **Deployment** - Heroku
 
-## ⬇️ Installation
-
-- First, fork this repository 🍴 and follow the given instructions:
-
-```
-# clone the repository to your local machine
-$ git clone `git clone https://github.com/<YOUR-GITHUB-USERNAME>/Rozgaar-Blue-Collars-Job-Seach-Platform-Frontend.git`
-
-# navigate to the project's directory and install all the relevant dev-dependencies
-$ cd Rozgaar-Blue-Collars-Job-Seach-Platform-Frontend && npm intsall
-
-# Start application
-$ npm start
-
-# Make requests on http://localhost:3030/ from Postman
-```
 
 ## Workflow
 
